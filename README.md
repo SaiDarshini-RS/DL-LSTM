@@ -59,9 +59,7 @@ Evaluate and predict: Compare true and predicted tags, then display word-level r
 
 ## PROGRAM:
 
-### Name: NARAMALA KUMARTEJA
 
-### Register Number: 212223230132
 
 ```python
 
